@@ -2,7 +2,7 @@
 
 I'm Mars Zuo.
 
-Living in Wuhan China, Working at Tencent as a back-end develpment.
+Living in Wuhan China, working at Tencent as a back-end develpment.
 
 Meet a cute girl with beautiful eyes and charming short hair, in the same city as me.
 
