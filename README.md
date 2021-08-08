@@ -2,6 +2,12 @@
 
 I'm Mars Zuo.
 
-Worked at Tencent as a back-end developer (java, golang, microservice, etc).
+Living in Wuhan China, Working at Tencent as a back-end develpment.
+
+Meet a cute girl with beautiful eyes and charming short hair, in the same city as me.
+
+Blog：https://www.cnblogs.com/maxzuo/
+
+Bilibili: https://space.bilibili.com/322978803
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZuoFuhong&count_private=true&show_icons=true" />
