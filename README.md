@@ -6,7 +6,7 @@ Living in Wuhan China, Working at Tencent as a back-end develpment.
 
 Meet a cute girl with beautiful eyes and charming short hair, in the same city as me.
 
-Blog：https://www.cnblogs.com/maxzuo/
+Blog：https://www.cnblogs.com/marszuo
 
 Bilibili: https://space.bilibili.com/322978803
 
