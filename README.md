@@ -2,7 +2,11 @@
 
 I'm Mars Zuo.
 
-Living in Wuhan China, working at Tencent as a back-end develpment.
+Living in Wuhan, China and currently working on:
+
+1. Distributed Systems with Golang
+2. Microservices && Kubernetes
+3. Game programming with C++
 
 Blog：https://www.cnblogs.com/marszuo
 
