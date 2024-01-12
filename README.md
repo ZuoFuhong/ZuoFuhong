@@ -4,7 +4,7 @@ I'm Mars Zuo.
 
 Living in Wuhan, China and currently working on:
 
-1. Distributed Systems and AI Multimedia Applications with Golang and C++.
+1. Distributed Systems and AI Multimedia Applications with Golang.
 2. Microservices && Audio-Video && Kubernetes.
 3. Game programming with C++.
 
