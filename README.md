@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi everyone 👋, This is Mars, nice to meet you.
 
-I'm Mars Zuo.
-
-Living in Wuhan, China and currently working on:
-
-1. Distributed Systems and Media Applications with Golang.
+1. Distributed Systems with Golang.
 2. Audio-Video && Microservices && Kubernetes.
 3. Game programming with C++.
 
